@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Lord Major, aldermen and commons of the City of London, in Common-Councel assembled, presented to the Right Honorable, the Lords and Commons in Parliament assembled. With the answer of the Commons to the said petition. Die Mercurii, 9 Augusti, 1648. Ordered by the Commons ... that the City petition .. be forthwith printed ...</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86821</idno>
+            <idno type="STC">Wing H3545</idno>
+            <idno type="STC">Thomason E458_7</idno>
+            <idno type="STC">ESTC R202504</idno>
+            <idno type="EEBO-CITATION">99862759</idno>
+            <idno type="PROQUEST">99862759</idno>
+            <idno type="VID">162090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162090)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Lord Major, aldermen and commons of the City of London, in Common-Councel assembled, presented to the Right Honorable, the Lords and Commons in Parliament assembled. With the answer of the Commons to the said petition. Die Mercurii, 9 Augusti, 1648. Ordered by the Commons ... that the City petition .. be forthwith printed ...</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 12. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Requesting the release of Charles I and the ending of hostilities.</note>
+                  <note>The same petition as Wing H3544; different from H3541.</note>
+                  <note>The reply is dated 9 Aug. 1648.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162090:1" rendition="simple:additions"/>
+            <p>The humble PETITION OF The Lord Major, Aldermen and Commons of the City of <hi>London, In Common-Councel aſſembled,</hi> PRESENTED To the Right Honorable, The <hi>LORDS</hi> and <hi>COMMONS</hi> in Parliament aſſembled.</p>
+            <p>WITH THE ANSWER OF The Commons to the ſaid Petition.</p>
+            <p>Die Mercurii, 9 Auguſti, 1648.</p>
+            <p>
+               <hi>ORdered by the Commons aſſembled in Parliament, That the City Petition, and the Anſwer thereunto, be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</hi>
+            </p>
+            <p>H: Elſynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>Auguſt</hi> 12. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="petition">
+               <pb facs="tcp:162090:2"/>
+               <pb n="3" facs="tcp:162090:2"/>
+               <head>To the Right Honorable, The Lords and Commons in Parliament aſſembled:</head>
+               <head type="sub">The humble Petition of the Lord Major, Aldermen, and Commons of the City of <hi>London</hi> in Com<g ref="char:EOLhyphen"/>mon Councel aſſembled;</head>
+               <opener>SHEWETH,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat your Petitioners being deeply ſenſible of the ſad, miſerable and de<g ref="char:EOLhyphen"/>plorable condition of the King, Par<g ref="char:EOLhyphen"/>liament and Kingdom, by the long continu<g ref="char:EOLhyphen"/>ance of a bloody and unnatural War (where<g ref="char:EOLhyphen"/>of they had great hopes to be freed) after the common Enemy was ſubdued, the Army of our Brethren of <hi>Scotland</hi> withdrawn, and the Kings Majeſty placed at <hi>Holdenby,</hi> by con<g ref="char:EOLhyphen"/>ſent of both Kingdoms (in order to a happy compoſure of all differences both in Church and State) But contrary to expectation, your Petitioners, to the great grief and ſorrow of their Souls, do finde the Government of the Church to be ſtill unſetled, Blaſphemy, He<g ref="char:EOLhyphen"/>reſie, Schiſm and Prophaneneſs increaſed, The relief of bleeding <hi>Ireland</hi> obſtructed, The War (to their great aſtoniſhment) again
+<pb n="4" facs="tcp:162090:3"/>renewed, The People of <hi>England</hi> thereby miſerably impoveriſhed and oppreſſed, The blood of our fellow Subjects (ſpilt like wa<g ref="char:EOLhyphen"/>ter upon the ground) Our Brethren of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> (now entred this Kingdom) in a Ho<g ref="char:EOLhyphen"/>ſtile maner, His Highneſs the Prince of <hi>Wales</hi> commanding at Sea a conſiderable part of the Navy, and other ſhips under His power, having already made ſtay of many Engliſh Ships, with Merchandizes and Provi<g ref="char:EOLhyphen"/>ſions to a very great value; by reaſon where<g ref="char:EOLhyphen"/>of, Navigation will be deſtroyed Seamen deſert us, Merchants inforced to leave off read<g ref="char:EOLhyphen"/>ing, clothing and other manufactures of this Kingdom fall to the ground, Wool, which is the ſtaple commodity of the Land remain unſold, The Mint ſtand ſtill, Cuſtoms and other Profits by Merchandizing will be very much abated, if not utterly deſtroyed; Corn, Salt, Cole, Fiſh, Butter, Cheeſe, and all o<g ref="char:EOLhyphen"/>ther proviſions brought by Sea to this City and Kingdom ſtopped, The innumerable number of the poorer ſort depending onely upon manufactures, wanting work and bread (as is greatly feared) will in a very ſhort time become tumultuous in all parts of
+<pb n="5" facs="tcp:162090:3"/>the Kingdom, And many inforced to remove themſelves and families into foraign parts, and there ſetle the manufactures of this King<g ref="char:EOLhyphen"/>dom never to be regained; all which will un<g ref="char:EOLhyphen"/>avoidably (in a very ſhort time) totally ruine the people of this Kingdom.</p>
+               <p>Your Petitioners humbly conceive, no vi<g ref="char:EOLhyphen"/>ſible way can prevent the apparent ruine of theſe Kingdoms, but the ſpeedy freeing of His Majeſty from that reſtraint wherein He now remaines, and by a Perſonal Treaty, reſtoring to the King His juſt Rights, to the Parliament their undoubted Priviledges, to the People their Native Freedoms and Bene<g ref="char:EOLhyphen"/>fit of the Laws (being the Birthright of every Subject) and by the due attendance of the Members of Parliament, in diſcharge of their truſt to the Kingdom, and in obſerving the ſelf denying Ordinance.</p>
+               <p>The<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> remiſes conſidered, your Petitioners do humbly pray, That the Kings Majeſty may be ſpeedily freed from that reſtraint wherein he now remains, and humbly in<g ref="char:EOLhyphen"/>vited unto a Perſonal Treaty, for the ſetling of a ſafe and well grounded Peace; And that
+<pb n="6" facs="tcp:162090:4"/>therein the Union between the two King<g ref="char:EOLhyphen"/>doms may be preſerved; That in the inte<g ref="char:EOLhyphen"/>rim, all acts of hoſtility both by Sea and Land may by command of King and Par<g ref="char:EOLhyphen"/>liament ceaſe, And Trade free without in<g ref="char:EOLhyphen"/>terruption, That the Government of the Church may be ſpeedily ſetled according to the Covenant, Diſtreſſed <hi>Ireland</hi> relieved, The People of the Land (by disbanding all Armies) may be eaſed of their intollerable burthens, The Liberty of the Subject re<g ref="char:EOLhyphen"/>ſtored, The Laws of the Land eſtabliſhed, The Members of this Honorable Houſe en<g ref="char:EOLhyphen"/>joyned to attend the ſervice of the King<g ref="char:EOLhyphen"/>dom, That the ſelf-denying Ordinance may be effectually obſerved: And that this Ho<g ref="char:EOLhyphen"/>norable Houſe would be pleaſed, ſpeedily to take into their ſerious conſideration the ſad condition of ſuch Merchants, whoſe ſhips and goods are under that Fleet, which is now with His Highneſs the Prince of <hi>Wales,</hi> and ſuddenly to finde ſome expedi<g ref="char:EOLhyphen"/>ent for their releaſment.</p>
+               <closer>And your Petitioners ſhall daily pray, &amp;c.</closer>
+            </div>
+            <div type="response">
+               <pb n="7" facs="tcp:162090:4"/>
+               <head>9 <hi>Auguſti,</hi> 1648.</head>
+               <p>THe Houſe of Commons have conſidered of the Petition of the Lord Major, Aldermen and Commons of the City of <hi>London</hi> in Common-Councel aſſembled, preſented to them <hi>Auguſt</hi> 8. And upon ſerious Debate had thereupon, thay have thought fit to acquaint the Common-Councel,</p>
+               <p>That they have paſſed an Ordinance for the ſetling of <hi>Preſ<g ref="char:EOLhyphen"/>byterian</hi> Government; and therein (upon review of all their former Ordinances) they have perfected and compiled the ſame in one entire body.</p>
+               <p>And for the obtaining a ſafe and well-grounded Peace, They have reſolved upon a Treaty with the King in the Iſle of <hi>Wight,</hi> upon the Propoſitions formerly agreed upon and preſented to the King at <hi>Hampton-Court,</hi> and for taking away of Wards and Liveries; and alſo upon ſuch other Propoſitions as ſhall be propounded either by His Majeſty or both Houſes of Parlia<g ref="char:EOLhyphen"/>ment: And that the King make choyce of what place He pleaſeth in that Iſland, to be there with Freedom, Honor and Safety, to Treat perſonally with the Commiſsioners of Parlia<g ref="char:EOLhyphen"/>ment; And the Committee which they have ſent to preſent this offer, are now with His Majeſty.</p>
+               <p>Concerning the ſeizing of the Ships and Goods of the Merchants of the City of <hi>London,</hi> and the decay and obſtru<g ref="char:EOLhyphen"/>ction of the Trade of the Kingdom by the Revolted Ships that lie in the Downs, The Houſe is deeply ſenſible thereof, and have done what lies in them for reducing thoſe Ships to their due obedience to the Parliament, by offering them Indempnity for their Offence, and payment of the Mariners Arrears upon their ſubmiſsion; and by ſending the Earl of <hi>Warwick,</hi> Lord Admiral, with power to command the reſt of the Navy to re<g ref="char:EOLhyphen"/>duce thoſe Ships by force, if they refuſe the pardon offered them; which might have proved an effectual means before this time, to have prevented the loſs already ſuffered, and to have ſecured the Trade of the Kingdom, had not the going out of the Fleet been retarded by the backwardneſs and treachery of divers
+<pb n="8" facs="tcp:162090:5"/>who have ſecretly complyed with the late defection of the Navy. And that the Houſe may manifeſt their earneſt Deſires to entertain any further means for the more ſpeedy and certain effecting of this work, of ſo neceſſary importance to the Honor and Welfare of this Nation, They have appointed a Com<g ref="char:EOLhyphen"/>mittee to Treat with the Merchants (that are moſt concerned therein) to receive their Advice, and to know what ayds they will contribute to the clearing of the Seas; and their readineſs therein, as it will return abundantly to their own advantage, ſo it will be embraced (as a moſt acceptable Service to the whole Kingdom) by this Houſe.</p>
+               <p>As to the Scotiſh Army which have in Hoſtile maner in<g ref="char:EOLhyphen"/>vaded this Kingdom, are poſſeſſed of <hi>Barwick</hi> and <hi>Carliſle,</hi> contrary to the Treaties betwixt the Kingdoms, and do joyn themſelves with the Popiſh and Malignant party in the North, The Houſe of Commons have Declared them Enemies to this Kingdom; and that all thoſe Engliſh or Iriſh as voluntarily adhere to them, are Traytors and Rebels, and to be proceed<g ref="char:EOLhyphen"/>ed with accordingly. And they reſolve (by Gods aſſiſtance) to adhere to and proſecute this their Reſolution; and upon the juſt and neceſſary grounds thereof, They do expect the hearty concurrence and aſsiſtance of this City of <hi>London,</hi> as of the reſt of the Kingdom, Notwithſtanding all the ſecret Plots and En<g ref="char:EOLhyphen"/>deavors of the Scots Emiſſaries, or the Agents of the Popiſh and Malignant party of this Kingdom to the contrary.</p>
+               <closer>
+                  <signed>H: Elſynge, Cler. Parl. D Com.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
